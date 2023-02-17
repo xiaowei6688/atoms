@@ -5,13 +5,6 @@
 @Time        : 2022/12/29 4:02 下午
 @Description :
 """
-# -*- coding: utf-8 -*-
-"""
-@File        : response.py
-@Author      : liuda
-@Time        : 2022/8/5 14:03
-@Description : response响应体
-"""
 from enum import Enum
 
 

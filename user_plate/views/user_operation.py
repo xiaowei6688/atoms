@@ -32,6 +32,7 @@ class UserListCreateAPIView(ListCreateAPIView):
 
 
 class UserLogin(ViewSet):
+    authentication_classes = []
 
     @action(detail=False)
     def login(self, request):
